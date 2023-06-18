@@ -1,0 +1,2 @@
+c- Sí
+d- No, los datos que estaban en tu repositorio al actualizar se hace un "merge"(una fusión)
